@@ -1,0 +1,68 @@
+
+ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gameoverwindow
+  rotate: false
+  xy: 1, 125
+  size: 345, 365
+  orig: 345, 365
+  offset: 0, 0
+  index: -1
+UIbg
+  rotate: false
+  xy: 348, 226
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+textGetReady
+  rotate: false
+  xy: 614, 417
+  size: 400, 73
+  orig: 400, 73
+  offset: 0, 0
+  index: -1
+textGameOver
+  rotate: false
+  xy: 1, 45
+  size: 412, 78
+  orig: 412, 78
+  offset: 0, 0
+  index: -1
+buttonLarge
+  rotate: false
+  xy: 614, 345
+  size: 196, 70
+  orig: 196, 70
+  offset: 0, 0
+  index: -1
+buttonSmall
+  rotate: false
+  xy: 348, 144
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+tapLeft
+  rotate: false
+  xy: 1, 1
+  size: 85, 42
+  orig: 85, 42
+  offset: 0, 0
+  index: -1
+tapRight
+  rotate: false
+  xy: 614, 301
+  size: 85, 42
+  orig: 85, 42
+  offset: 0, 0
+  index: -1
+tapTick
+  rotate: false
+  xy: 812, 356
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1

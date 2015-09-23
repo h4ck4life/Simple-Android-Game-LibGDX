@@ -1,0 +1,61 @@
+
+button.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+quitwindow
+  rotate: false
+  xy: 1, 247
+  size: 402, 241
+  orig: 402, 241
+  offset: 0, 0
+  index: -1
+pausewindow
+  rotate: false
+  xy: 1, 77
+  size: 383, 168
+  orig: 383, 168
+  offset: 0, 0
+  index: -1
+levelselectbutton
+  rotate: false
+  xy: 405, 233
+  size: 215, 255
+  orig: 215, 255
+  offset: 0, 0
+  index: -1
+playbutton
+  rotate: false
+  xy: 622, 381
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+facebook
+  rotate: false
+  xy: 1, 1
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+leaderboard
+  rotate: false
+  xy: 622, 305
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+restart
+  rotate: false
+  xy: 732, 414
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 74, 1
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
